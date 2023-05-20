@@ -1,0 +1,30 @@
+body{
+  background-color: aqua;
+}
+.box1{
+  background-color: rgb(194, 132, 17);
+  height: 500px;
+  width: 500px;
+  margin-left: 30%;
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 5px 5px violet;
+}
+.inc{
+  margin-top: 10px;
+  text-align: center;
+}
+.reset{
+  margin-top: 10px;
+  text-align: center;
+}
+.dec{
+  margin-top: 10px;
+  text-align: center;
+}
+.head{
+  text-align: center;
+}
+.text{
+  margin-left: 33%;
+}
